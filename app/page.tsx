@@ -75,6 +75,15 @@ const questions: Question[] = [
       { text: "🏃‍♂️ Active outdoor time that makes you feel good", personality: "Health Nut" },
       { text: "🎭 Discovering a hidden gem – gallery, shop, or experience", personality: "Artisan Snob" }
     ]
+  },
+  {
+    question: "How do you recharge after a long day?",
+    answers: [
+      { text: "🛋️ Quiet time alone with tea and comfort", personality: "Cozy Classic" },
+      { text: "🎸 Something creative or stimulating", personality: "Bold Adventurer" },
+      { text: "🍃 Meditation, stretching, or a calming routine", personality: "Health Nut" },
+      { text: "🎵 Curating the perfect playlist or journaling", personality: "Artisan Snob" }
+    ]
   }
 ];
 
